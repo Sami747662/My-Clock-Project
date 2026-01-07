@@ -1,0 +1,5 @@
+{
+  "name": "ZenClock Productivity Hub",
+  "description": "A minimalist, glassmorphic productivity dashboard featuring a live clock, dynamic greetings, and an integrated Pomodoro timer for deep work sessions.",
+  "requestFramePermissions": []
+}
